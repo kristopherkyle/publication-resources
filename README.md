@@ -6,7 +6,7 @@ This page includes publication resources for articles accepted after mid-2021. R
 ## Publications with Resources
 Publications below are sorted in reverse chronological order.
 
-Kyle, K., Choe, A. T., Eguchi, M., LaFlair, G. T., & Ziegler, N. (in press). A comparison of spoken and written language use in traditional and technology mediated learning environments. *ETS Research Report Series*. [resource page]()
+Kyle, K., Choe, A. T., Eguchi, M., LaFlair, G. T., & Ziegler, N. (in press). A comparison of spoken and written language use in traditional and technology mediated learning environments. *ETS Research Report Series*. [Rendered R Markdown File](https://kristopherkyle.github.io/publication-resources/data/Kyle%20et%20al%202021%20ETS/MD_5.0_Trimmed_forETSreport.html)
 
 ## Other Publications
 This is a holder for other publications
